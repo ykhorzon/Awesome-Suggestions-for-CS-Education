@@ -127,8 +127,11 @@ Coding Style
 3. 個人對歐來禮有私心，可以去時常去check一下新書
 
 91 敏捷開發之路 推薦
+
 ![](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/18920585_770847533089867_7267737124231590620_n.jpg?oh=1ce70b49c4cd5ae562af73f0112f7064&oe=599BDF9E)
+
 [source](https://www.facebook.com/91agile/photos/a.467790793395544.1073741828.467664836741473/770863519754935/?type=3&theater)
+
 [書架上的精神食糧](https://www.facebook.com/hatelove/media_set?set=a.2217656715475.2127581.1069344389&type=3&pnref=story)
 
 [stackoverflow.com most mention books](http://www.dev-books.com/)
@@ -140,7 +143,6 @@ Coding Style
 可以找一些 online judge 來練習 coding，大致上分成 2類
 - Competitive Programming (More algorithm and data structure)
 - Practical Programming
-
 - [leetCode](https://leetcode.com/)
 - [Codewars, Leetcode, Hackerrank. Online Judges Reviews](http://jasonjl.me/blog/2015/03/30/practical-programming-practice-services/)
 
@@ -153,19 +155,19 @@ Coding Style
 
 
 Soft Skills (Non-technical)
-===========
+==============================
 
 ## 人格特質(MindSet?)
 - 願意學習
 - 具備彈性接受新事物 (Open Mind)
 - 積極
-- 觀念好(?)
 - Maturity
 - Growth Mindset
-
+- [7 Habits of Highly Effective People, The: 25th Anniversary Edition ](https://www.amazon.com/Habits-Highly-Effective-People-Anniversary/dp/1511317299)
 
 ## Communication 溝通
 - [Microsoft - S.M.A.R.T原則](https://ericyeh92094.gitbooks.io/self-reflection-and-insight-for-s-w-engineering/content/smart.html)
+
 ## Expression 表達 
 - Visualization
 - [Book] [Visualization - 餐巾紙的背後：一枝筆＋一張紙就可以解決問題＋說服老闆＆客戶（新版）](http://www.books.com.tw/products/0010638040)
@@ -182,22 +184,20 @@ Concept
 - Design Thinking
 
 
-## Book
+## 綜合
+- [Books] [Soft skills the software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
+- [Books] [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
+
+## 其他 Book
 - [Chang Boison 閱讀筆記](https://www.facebook.com/dragoncrest/media_set?set=a.1424604134266580.1073741888.100001510223849&type=3&pnref=story)
 - Ren Cheng
 
 
-## 綜合
-- [危機處理](https://ericyeh92094.gitbooks.io/self-reflection-and-insight-for-s-w-engineering/content/wei-ji-chu-li.html)
-
-- [Books] [Soft skills the software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 
 
 
-
-
-# Agile Learning Resoruces
-
+Agile Learning Resoruces
+===================
 ## Keywords
 - Kanban
 - Scrum
@@ -215,13 +215,13 @@ Concept
 - [Agile Talk](http://agiletalks.blogspot.tw/)
 
 
-# 經驗談
-
+經驗談
+===================
 看看前輩們怎麼談工作經驗吧！
 
 - [漫談 - 軟體開發見聞錄(應該是Microsoft)](https://hackmd.io/CYVgpgjMDMZgtANgCwDMCc9kAYyvgIbIDGATPOgBxggDs4aBEiQA?both)
 
 
-# Interview
-
+Interview
+===================
 - [Use The STAR Technique to Ace Your Behavioral Interview](http://www.rightattitudes.com/2008/07/15/star-technique-answer-interview-questions/)
