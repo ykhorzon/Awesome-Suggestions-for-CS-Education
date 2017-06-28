@@ -122,9 +122,9 @@ Coding Style
 方法
 1. 自己的方法是，找到那些愛看書的人，知道他們在看什麼書
 2.  或是 搜尋 "must read book for programmer" 之類的關鍵字
-    然後針對書名去 Amazon 看一下書本的評分和評論，大概可以略知這本書的評價
-    最後翻閱一下 Outline 確定內容是否你有興趣的
-3. 個人對歐來禮有私心，可以去時常去check一下新書
+    然後針對書名去 Amazon 看一下書本的評分和評論，大概可以略知這本書的評     價，最後翻閱一下 Outline 確定內容是否你有興趣的
+3. Amazon的相關書推薦，對於想找類似的好書很有幫助
+4. 個人對歐來禮有私心，可以去時常去check一下新書
 
 91 敏捷開發之路 推薦
 
@@ -160,17 +160,20 @@ Soft Skills (Non-technical)
 ## 人格特質(MindSet?)
 - 願意學習
 - 具備彈性接受新事物 (Open Mind)
-- 積極
+- 積極 Proactive
 - Maturity
 - Growth Mindset
 - [7 Habits of Highly Effective People, The: 25th Anniversary Edition ](https://www.amazon.com/Habits-Highly-Effective-People-Anniversary/dp/1511317299)
 
 ## Communication 溝通
 - [Microsoft - S.M.A.R.T原則](https://ericyeh92094.gitbooks.io/self-reflection-and-insight-for-s-w-engineering/content/smart.html)
+- [ORID焦點討論法](https://www.slideshare.net/shutingchuang940/orid-43587601)
+
 
 ## Expression 表達 
 - Visualization
-- [Book] [Visualization - 餐巾紙的背後：一枝筆＋一張紙就可以解決問題＋說服老闆＆客戶（新版）](http://www.books.com.tw/products/0010638040)
+- [餐巾紙的背後：一枝筆＋一張紙就可以解決問題＋說服老闆＆客戶（新版）](http://www.books.com.tw/products/0010638040)
+- [簡報 show and Tell](http://www.books.com.tw/products/0010680589)
 
 ## Thinking 思考
 
@@ -181,16 +184,27 @@ Soft Skills (Non-technical)
 Concept
 - Systematic Thinking
 - Theory of constraints (限制理論)
-- Design Thinking
+- [Design Thinking](https://zh.wikipedia.org/wiki/%E8%A8%AD%E8%A8%88%E6%80%9D%E8%80%83)
+- [Scenario planning](https://zh.wikipedia.org/wiki/%E6%83%85%E6%99%AF%E8%AE%A1%E5%88%92)
+- ORID
 
+## 產品探索
+- [User Story Mapping](http://www.books.com.tw/products/0010712916)
+- [Impact Mapping](https://www.impactmapping.org/book.html)
+- [Value Proposition](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1118968050.html)
+- [Business Model Generation](https://strategyzer.com/books/business-model-generation)
+- [設計的心理學：人性化的產品設計如何改變世界](http://www.books.com.tw/products/0010643797)
+- NTHU 服務科學所 有相關課程
 
 ## 綜合
 - [Books] [Soft skills the software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 - [Books] [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
 
-## 其他 Book
+## 其他 
 - [Chang Boison 閱讀筆記](https://www.facebook.com/dragoncrest/media_set?set=a.1424604134266580.1073741888.100001510223849&type=3&pnref=story)
-- Ren Cheng
+- Ren Cheng 的 Facebook 不時會推薦好書
+- 91 的 Facebook 不時會推薦好書
+- [NTHU 高科技創業營運 書單](https://www.dropbox.com/s/cke9hyn11abasiu/Syllabus_2016.docx?dl=0)
 
 
 
@@ -202,6 +216,7 @@ Agile Learning Resoruces
 - Kanban
 - Scrum
 - Agile
+- XP
 
 ## General
 - [Mastering Scrum and Agile](https://trello.com/b/Ncc4VzLM/%5Bedu%5D-mastering-scrum-%2F-agile)
