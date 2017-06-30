@@ -1,8 +1,8 @@
 Awesome-Suggestions-for-CS-Student
 ====================================
-[Scrum Community in Taiwan: 【對新鮮人來說敏捷經驗可以加多少分？】](https://www.facebook.com/groups/179345672472/permalink/10154671615042473/)
+[Scrum Community in Taiwan: 【對新鮮人來說敏捷經驗可以加多少分？】](https://www.facebook.com/groups/179345672472/permalink/10154671615042473/) 原始討論串，因此有此篇統整
 
-
+# 序言
 業界對於新鮮人的期望，具備哪些能力、技術或特質，各種求職網站、雜誌雖然都有探討，但在產業界的觀點又是另一回事。
 
 如果軟體人才是產品，那學校就是打造這個產品的公司，業界就是顧客。類比成敏捷開發，就當作是需求探索的過程，命題就會是 
@@ -11,13 +11,6 @@ Awesome-Suggestions-for-CS-Student
 
 我不敢說大話，能夠讓說服學校或改變體制這種不實際的幻想，但我至少敢保證會拿我教授看和公開在網路上分享 [Hackmd](https://hackmd.io/CYVgpgjMDMZgtANgCwDMCc9kAYyvgIbIDGATPOgBxggDs4aBEiQA?both), [Github Link](https://github.com/ykhorzon/Awesome-Suggestions-for-CS-Education)
 
-Problem Colletions
-============================
-
-__從學校觀點的Comments__
-> 1. 大多數基礎課程內容( EX: Data Structure, algorithm, linear algebra ..etc)
-無法和 Programming Homework或真實問題連起來，有些脫勾
-> 2. 非常吃重課程助教的Programming Experiences 能力
 
 
 
@@ -51,6 +44,7 @@ __從學校觀點的Comments__
 
 - Data Structure
 - Algorithm
+- Operating System(OS)
 
 Developing Technical Skills
 ====================================
@@ -60,12 +54,7 @@ Developing Technical Skills
 
 ## Engineering Practices
 
-__命題__
-> 大家對於技術新鮮人，期望能夠接觸過項目，如果能有更具體建議更好
 
-__從學校觀點的Comments__
-> 1. 將 Engineering Practices 融入Programming Homework中，不容易設計
-> 除非助教在業界工作過，否則也容易說了一嘴好方法，大概也是紙上談兵
 
 ## Expected Practical Experience
 
@@ -73,18 +62,23 @@ __從學校觀點的Comments__
 - Open Source Project Participation
 
 
-## Concept
+## Concept (需要再分類)
+
+Programing Language
 - Boundary Condition
 - Exception handling
 
-Coding Style
-- [Book] [易讀程式之美學:提升程式碼可讀性的簡單法則](http://www.books.com.tw/products/0010584840)
+
+- Coding Style
+        - [Book] [易讀程式之美學:提升程式碼可讀性的簡單法則](http://www.books.com.tw/products/0010584840)
+        - Clean Code
+        - Clean Coder
 
 
 - Version Contorl 
     - (Git, SVN...etc)
 - Debugging
-- Automatic Testing
+- Bug Tracking
 - Testing
     - [[Slide]克服人心的障礙，跨越自動化測試的門檻](https://speakerdeck.com/tzangms/ke-fu-ren-xin-de-zhang-ai-kua-yue-zi-dong-hua-ce-shi-de-men-jian)
     - Unit Test
@@ -94,20 +88,22 @@ Coding Style
 - Write automation script for routines 
 - Test Driven Developing(TDD)
     - [In 91 TDD]()
-- OOP Analysis
+- Object-Oriented Programming
 - Design Pattern
+- refactoring
+- [Programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
 - [Defensive Programming](https://ihower.tw/blog/archives/7259)
 - [Design by contract](https://en.wikipedia.org/wiki/Design_by_contract)
 
 
-
 - Code Review
-- Bad Smelling Code
+- Bad Smelling Code & Anti-pattern 講評(不太確定名稱)
 - Pair Programming
-- Anti-pattern 講評(不太確定名稱)
-- Coding Dojo
 
-
+- continuous delivery
+- continuous integration
+- Specification by example
+- [Coding Conventions, wiki](https://en.wikipedia.org/wiki/Coding_conventions)
 ## Blogger
 - [Coding Horror](https://blog.codinghorror.com/)
 
@@ -115,16 +111,24 @@ Coding Style
 - [InfoQ](https://www.infoq.com/)
 
 ## Study Group
-- [線上讀書會](https://www.youtube.com/channel/UCWyojczht33LY1TQbw2k4Sg)
+- [Youtube 線上讀書會](https://www.youtube.com/channel/UCWyojczht33LY1TQbw2k4Sg)
+- [C Lang 和 CS基礎 - 成大Jim Huang (JServ)](https://www.youtube.com/channel/UCIm-u7l65hp5jboSJrB7U5w/videos)
+## Resource Hub
+
+1.在github 搜尋"awesome" 就會出一對統整好資源的repository
+[awesome repositories in github](https://github.com/search?utf8=%E2%9C%93&q=awesome&type=)
+
+## Course
+MOOC
+## Community
 
 ## Book
-
 方法
 1. 自己的方法是，找到那些愛看書的人，知道他們在看什麼書
 2.  或是 搜尋 "must read book for programmer" 之類的關鍵字
     然後針對書名去 Amazon 看一下書本的評分和評論，大概可以略知這本書的評     價，最後翻閱一下 Outline 確定內容是否你有興趣的
 3. Amazon的相關書推薦，對於想找類似的好書很有幫助
-4. 個人對歐來禮有私心，可以去時常去check一下新書
+4. 個人對私心退建歐來禮，可以時常去check一下新書
 
 91 敏捷開發之路 推薦
 
@@ -138,6 +142,8 @@ Coding Style
 
 
 ## Practices
+
+### Coding Dojo
 
 ### Online Judge
 可以找一些 online judge 來練習 coding，大致上分成 2類
@@ -164,11 +170,13 @@ Soft Skills (Non-technical)
 - Maturity
 - Growth Mindset
 - [7 Habits of Highly Effective People, The: 25th Anniversary Edition ](https://www.amazon.com/Habits-Highly-Effective-People-Anniversary/dp/1511317299)
+- [給予 Given and Take](http://www.books.com.tw/products/0010620643)
 
 ## Communication 溝通
 - [Microsoft - S.M.A.R.T原則](https://ericyeh92094.gitbooks.io/self-reflection-and-insight-for-s-w-engineering/content/smart.html)
-- [ORID焦點討論法](https://www.slideshare.net/shutingchuang940/orid-43587601)
-
+- ORID焦點討論法
+    - [ORID焦點討論法 - 白話入門篇](https://www.slideshare.net/shutingchuang940/orid-43587601)
+- [華頓商學院最受歡迎的談判課：上完這堂課，世界都會聽你的！](http://www.books.com.tw/products/0010518407)
 
 ## Expression 表達 
 - Visualization
@@ -182,23 +190,32 @@ Soft Skills (Non-technical)
 - 推演
 
 Concept
+- [Computational Thinking for Educators](https://computationalthinkingcourse.withgoogle.com/course?use_last_location=true)
 - Systematic Thinking
 - Theory of constraints (限制理論)
-- [Design Thinking](https://zh.wikipedia.org/wiki/%E8%A8%AD%E8%A8%88%E6%80%9D%E8%80%83)
-- [Scenario planning](https://zh.wikipedia.org/wiki/%E6%83%85%E6%99%AF%E8%AE%A1%E5%88%92)
+- Design Thinking
+    - [Design Thinking 6關, 張小均 ](https://www.slideshare.net/ssuser968e8d/0-design-thinking-level-0)
+- [Scenario Planning](https://zh.wikipedia.org/wiki/%E6%83%85%E6%99%AF%E8%AE%A1%E5%88%92)
 - ORID
 
-## 產品探索
+## 產品探索相關
 - [User Story Mapping](http://www.books.com.tw/products/0010712916)
 - [Impact Mapping](https://www.impactmapping.org/book.html)
 - [Value Proposition](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1118968050.html)
 - [Business Model Generation](https://strategyzer.com/books/business-model-generation)
 - [設計的心理學：人性化的產品設計如何改變世界](http://www.books.com.tw/products/0010643797)
+- [How to build an experience map](https://medium.com/@wnialloconnor/how-to-build-an-experience-map-5e55b7ee4f32#.naodg7x45)
 - NTHU 服務科學所 有相關課程
 
 ## 綜合
 - [Books] [Soft skills the software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 - [Books] [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
+
+
+## Resource Hub
+- [Soft and Share Blog](https://softnshare.wordpress.com/category/01-notes/) (可以看翻譯文章、讀書會的書單、課程)
+- 羅輯思維
+- [再忙也要看本書！全球頂尖CEO推薦的25本必讀書單，來看看你讀過哪些？](http://www.storm.mg/lifestyle/66627)
 
 ## 其他 
 - [Chang Boison 閱讀筆記](https://www.facebook.com/dragoncrest/media_set?set=a.1424604134266580.1073741888.100001510223849&type=3&pnref=story)
@@ -240,3 +257,21 @@ Agile Learning Resoruces
 Interview
 ===================
 - [Use The STAR Technique to Ace Your Behavioral Interview](http://www.rightattitudes.com/2008/07/15/star-technique-answer-interview-questions/)
+- [500 Data Structures and Algorithms practice problems and their solutions](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions)
+- [矽谷新創 Asana：我們是這樣面試工程師的](https://www.bnext.com.tw/article/39276/BN-2016-04-20-101916-174)
+
+Problem Colletions
+============================
+
+__從學校觀點的Comments__
+> 1. 大多數基礎課程內容( EX: Data Structure, algorithm, linear algebra ..etc)
+無法和 Programming Homework或真實問題連起來，有些脫勾
+> 2. 非常吃重課程助教的Programming Experiences 能力
+
+
+__命題__
+> 大家對於技術新鮮人，期望能夠接觸過項目，如果能有更具體建議更好
+
+__從學校觀點的Comments__
+> 1. 將 Engineering Practices 融入Programming Homework中，不容易設計
+> 除非助教在業界工作過，否則也容易說了一嘴好方法，大概也是紙上談兵
